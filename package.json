@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "solomon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "^3.0.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "*",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "pg": "*"
+  }
+}
